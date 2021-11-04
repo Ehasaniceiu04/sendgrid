@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SendGrid.CSharp.Client", "SendGrid.CSharp.Client\SendGrid.CSharp.Client.csproj", "{479E6DC3-9F3F-4C4F-BF2C-8F1D9EF743DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{479E6DC3-9F3F-4C4F-BF2C-8F1D9EF743DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{479E6DC3-9F3F-4C4F-BF2C-8F1D9EF743DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{479E6DC3-9F3F-4C4F-BF2C-8F1D9EF743DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{479E6DC3-9F3F-4C4F-BF2C-8F1D9EF743DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {076389E4-50CF-4857-9D3C-EC7D6F73F430}
+	EndGlobalSection
+EndGlobal
